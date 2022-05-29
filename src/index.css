@@ -1,0 +1,29 @@
+* {
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+.main-container {
+  padding: 3rem;
+  text-align: center;
+  max-width: 500px;
+}
+h1 {
+  padding-bottom: 0.6rem;
+}
+.clear-btn {
+  margin-top: 1rem;
+}
+.alert-container {
+  height: 2rem;
+}
+input {
+  width: 15rem;
+}
+.button-lg {
+  width: 5rem;
+  background-color: grey;
+  color: white;
+}
+.button-sml {
+  width: 4rem;
+}
